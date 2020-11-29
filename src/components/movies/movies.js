@@ -12,7 +12,7 @@ export const moviesList = [
     {
       title: "Inception",
       year: 2010,
-      genre: "Sci-fi",
+      genre: "Drama",
     },
     {
       title: "The Imitation Game",
@@ -37,7 +37,7 @@ export const moviesList = [
     {
       title: "Inception",
       year: 2010,
-      genre: "Sci-fi",
+      genre: "Adventure",
     },
     {
       title: "The Matrix",
